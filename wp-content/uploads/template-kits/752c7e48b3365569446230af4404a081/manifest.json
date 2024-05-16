@@ -1,0 +1,1153 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Ubin - Template kit for Flooring Services",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/preview.moxcreative.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/preview.moxcreative.com\/ubin\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Project",
+            "screenshot": "screenshots\/single-project.jpg",
+            "source": "templates\/single-project.json",
+            "preview_url": "https:\/\/preview.moxcreative.com\/ubin\/template-kit\/single-project\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Project",
+            "screenshot": "screenshots\/project.jpg",
+            "source": "templates\/project.json",
+            "preview_url": "https:\/\/preview.moxcreative.com\/ubin\/template-kit\/project\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/preview.moxcreative.com\/ubin\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/preview.moxcreative.com\/ubin\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing Plan",
+            "screenshot": "screenshots\/pricing-plan.jpg",
+            "source": "templates\/pricing-plan.json",
+            "preview_url": "https:\/\/preview.moxcreative.com\/ubin\/template-kit\/pricing-plan\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/preview.moxcreative.com\/ubin\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/preview.moxcreative.com\/ubin\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/preview.moxcreative.com\/ubin\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Ubin V1 - Error 404",
+            "screenshot": "screenshots\/ubin-v1-error-404.jpg",
+            "source": "templates\/ubin-v1-error-404.json",
+            "preview_url": "https:\/\/preview.moxcreative.com\/ubin\/?elementor_library=ubin-v1-error-404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Ubin V1 - Single Post",
+            "screenshot": "screenshots\/ubin-v1-single-post.jpg",
+            "source": "templates\/ubin-v1-single-post.json",
+            "preview_url": "https:\/\/preview.moxcreative.com\/ubin\/?elementor_library=ubin-v1-single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Ubin V1 - Archive Blog",
+            "screenshot": "screenshots\/ubin-v1-archive-blog.jpg",
+            "source": "templates\/ubin-v1-archive-blog.json",
+            "preview_url": "https:\/\/preview.moxcreative.com\/ubin\/?elementor_library=ubin-v1-archive-blog",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Ubin V1 - Footer",
+            "screenshot": "screenshots\/ubin-v1-footer.jpg",
+            "source": "templates\/ubin-v1-footer.json",
+            "preview_url": "https:\/\/preview.moxcreative.com\/ubin\/?elementor_library=ubin-v1-footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Ubin V1 - Header",
+            "screenshot": "screenshots\/ubin-v1-header.jpg",
+            "source": "templates\/ubin-v1-header.json",
+            "preview_url": "https:\/\/preview.moxcreative.com\/ubin\/?elementor_library=ubin-v1-header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Element Pack Lite - Addons for Elementor",
+            "version": "3.7.1",
+            "file": "bdthemes-element-pack-lite\/bdthemes-element-pack-lite.php",
+            "author": "BdThemes"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.5.3",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.6.0",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Material Design Icons for Page Builders",
+            "version": "1.4.1",
+            "file": "material-design-icons-for-elementor\/material-design-icons-for-elementor.php",
+            "author": "Photon WP"
+        }
+    ],
+    "images": [
+        {
+            "filename": "living-room-with-wood-flooring.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/ubin\/wp-content\/uploads\/sites\/8\/2022\/02\/living-room-with-wood-flooring-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single Project"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/ubin-v1-single-post.json",
+                    "name": "Ubin V1 - Single Post"
+                },
+                {
+                    "source": "templates\/ubin-v1-archive-blog.json",
+                    "name": "Ubin V1 - Archive Blog"
+                }
+            ],
+            "filesize": 106361,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PU62LS7"
+        },
+        {
+            "filename": "flooring-contractor-at-work-2021-08-26-23-04-54-utc.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/ubin\/wp-content\/uploads\/sites\/8\/2022\/02\/flooring-contractor-at-work-2021-08-26-23-04-54-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single Project"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 72814,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/flooring-contractor-at-work-RM9527S"
+        },
+        {
+            "filename": "a-male-worker-puts-laminate-flooring-on-the-floor-2021-12-22-20-01-32-utc.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/ubin\/wp-content\/uploads\/sites\/8\/2022\/02\/a-male-worker-puts-laminate-flooring-on-the-floor-2021-12-22-20-01-32-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 65290,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/a-male-worker-puts-laminate-flooring-on-the-floor-39993KL"
+        },
+        {
+            "filename": "review.png",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/ubin\/wp-content\/uploads\/sites\/8\/2022\/02\/review.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 10668,
+            "dimensions": [
+                413,
+                140
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "builders-working-on-the-floor-in-new-house-2021-09-23-06-01-10-utc.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/ubin\/wp-content\/uploads\/sites\/8\/2022\/02\/builders-working-on-the-floor-in-new-house-2021-09-23-06-01-10-utc-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 41084,
+            "dimensions": [
+                1080,
+                608
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/builders-working-on-the-floor-in-new-house-VUR3BEU"
+        },
+        {
+            "filename": "room-with-large-windows-and-parquet-flooring-2021-12-09-14-07-38-utc.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/ubin\/wp-content\/uploads\/sites\/8\/2022\/02\/room-with-large-windows-and-parquet-flooring-2021-12-09-14-07-38-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 43137,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/room-with-large-windows-and-parquet-flooring-947R4XZ"
+        },
+        {
+            "filename": "packs-of-wooden-parquet-flooring-are-seen-during-installation-of-wood-herringbone-kitchen-floor.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/ubin\/wp-content\/uploads\/sites\/8\/2022\/02\/packs-of-wooden-parquet-flooring-are-seen-during-installation-of-wood-herringbone-kitchen-floor-800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 169916,
+            "dimensions": [
+                1080,
+                810
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PVLMLZK"
+        },
+        {
+            "filename": "flooring-home-improvement-.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/ubin\/wp-content\/uploads\/sites\/8\/2022\/02\/flooring-home-improvement--800x389.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 92593,
+            "dimensions": [
+                1080,
+                525
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RMJLDDD"
+        },
+        {
+            "filename": "above-view-of-hands-of-creative-architects-pointin-2021-09-24-03-23-01-utc.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/ubin\/wp-content\/uploads\/sites\/8\/2022\/02\/above-view-of-hands-of-creative-architects-pointin-2021-09-24-03-23-01-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 79530,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/above-view-of-hands-of-creative-architects-pointin-3WSMKAZ"
+        },
+        {
+            "filename": "caucasian-flooring-contractor.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/ubin\/wp-content\/uploads\/sites\/8\/2022\/02\/caucasian-flooring-contractor-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 95690,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QMDVWLH"
+        },
+        {
+            "filename": "img__0007_Layer-1.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/ubin\/wp-content\/uploads\/sites\/8\/2022\/02\/img__0007_Layer-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 42410,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pleased-cheerful-redhaired-male-with-pleasant-smil-CCXAYZL"
+        },
+        {
+            "filename": "img__0006_Layer-2.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/ubin\/wp-content\/uploads\/sites\/8\/2022\/02\/img__0006_Layer-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 50306,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-cheerful-european-female-with-satisfie-W73EUUE"
+        },
+        {
+            "filename": "img__0003_Layer-5.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/ubin\/wp-content\/uploads\/sites\/8\/2022\/02\/img__0003_Layer-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 47988,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/joyful-freckled-teenager-wears-round-transparent-g-EPRUCGN"
+        },
+        {
+            "filename": "logo-1.png",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/ubin\/wp-content\/uploads\/sites\/8\/2022\/02\/logo-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2063,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-2.png",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/ubin\/wp-content\/uploads\/sites\/8\/2022\/02\/logo-2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1811,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-3.png",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/ubin\/wp-content\/uploads\/sites\/8\/2022\/02\/logo-3.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2079,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-4.png",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/ubin\/wp-content\/uploads\/sites\/8\/2022\/02\/logo-4.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2193,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-5.png",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/ubin\/wp-content\/uploads\/sites\/8\/2022\/02\/logo-5.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2300,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-11.png",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/ubin\/wp-content\/uploads\/sites\/8\/2022\/02\/logo-11.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1900,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "solid-oak-wood-flooring.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/ubin\/wp-content\/uploads\/sites\/8\/2022\/02\/solid-oak-wood-flooring-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single Project"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 162563,
+            "dimensions": [
+                1080,
+                719
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-YPFMRWN"
+        },
+        {
+            "filename": "vinyl-flooring-aisle-at-home-depot-shopping-for-v-2021-09-01-11-56-42-utc.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/ubin\/wp-content\/uploads\/sites\/8\/2022\/02\/vinyl-flooring-aisle-at-home-depot-shopping-for-v-2021-09-01-11-56-42-utc-800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single Project"
+                }
+            ],
+            "filesize": 98508,
+            "dimensions": [
+                1080,
+                810
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/vinyl-flooring-aisle-at-home-depot-shopping-for-vi-KHLB9UW"
+        },
+        {
+            "filename": "engineers-working-with-construction-plan-2021-08-28-12-44-37-utc.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/ubin\/wp-content\/uploads\/sites\/8\/2022\/02\/engineers-working-with-construction-plan-2021-08-28-12-44-37-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single Project"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 49050,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/engineers-working-with-construction-plan-XN4B2V3"
+        },
+        {
+            "filename": "a-male-worker-puts-laminate-flooring-on-the-floor-2022-01-11-04-18-58-utc.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/ubin\/wp-content\/uploads\/sites\/8\/2022\/02\/a-male-worker-puts-laminate-flooring-on-the-floor-2022-01-11-04-18-58-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single Project"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 68978,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/a-male-worker-puts-laminate-flooring-on-the-floor-9H6X32G"
+        },
+        {
+            "filename": "men-laying-laminate-flooring-.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/ubin\/wp-content\/uploads\/sites\/8\/2022\/02\/men-laying-laminate-flooring--800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single Project"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 86612,
+            "dimensions": [
+                1080,
+                608
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DQ7V3S5"
+        },
+        {
+            "filename": "hardwood-flooring-panels.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/ubin\/wp-content\/uploads\/sites\/8\/2022\/02\/hardwood-flooring-panels-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single Project"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 112904,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6TUMSGX"
+        },
+        {
+            "filename": "man-worker-installing-laminate-flooring-wooden-laminate-floor-plank-and-tools.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/ubin\/wp-content\/uploads\/sites\/8\/2022\/02\/man-worker-installing-laminate-flooring-wooden-laminate-floor-plank-and-tools-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 116071,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-U2CNMT3"
+        },
+        {
+            "filename": "img_1.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/ubin\/wp-content\/uploads\/sites\/8\/2022\/02\/img_1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 63016,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pleased-cheerful-redhaired-male-with-pleasant-smil-CCXAYZL"
+        },
+        {
+            "filename": "img_3.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/ubin\/wp-content\/uploads\/sites\/8\/2022\/02\/img_3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 70638,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-confident-male-entrepreneur-with-postive-smi-BDAU9DK"
+        },
+        {
+            "filename": "img_4.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/ubin\/wp-content\/uploads\/sites\/8\/2022\/02\/img_4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 71472,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/horizontal-shot-of-pleasant-looking-ginger-young-e-F9MBGAR"
+        },
+        {
+            "filename": "img_5.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/ubin\/wp-content\/uploads\/sites\/8\/2022\/02\/img_5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 111607,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/carefree-attractive-girl-with-pleasant-look-enjoys-4GXJZTE"
+        },
+        {
+            "filename": "img_6.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/ubin\/wp-content\/uploads\/sites\/8\/2022\/02\/img_6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 85457,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/joyful-freckled-teenager-wears-round-transparent-g-EPRUCGN"
+        },
+        {
+            "filename": "img_7.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/ubin\/wp-content\/uploads\/sites\/8\/2022\/02\/img_7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 45428,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/optimistic-positive-handsome-bearded-man-FXXXGY4"
+        },
+        {
+            "filename": "img_8.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/ubin\/wp-content\/uploads\/sites\/8\/2022\/02\/img_8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 64765,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/waist-up-shot-of-handsome-self-confident-cheerful--BUTM9PX"
+        },
+        {
+            "filename": "img_9.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/ubin\/wp-content\/uploads\/sites\/8\/2022\/02\/img_9.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 95843,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-cheerful-european-female-with-satisfie-W73EUUE"
+        },
+        {
+            "filename": "logo_ubin_w.png",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/ubin\/wp-content\/uploads\/sites\/8\/2022\/02\/logo_ubin_w.png",
+            "templates": [
+                {
+                    "source": "templates\/ubin-v1-footer.json",
+                    "name": "Ubin V1 - Footer"
+                }
+            ],
+            "filesize": 2244,
+            "dimensions": [
+                242,
+                106
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo_ubin.png",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/ubin\/wp-content\/uploads\/sites\/8\/2022\/02\/logo_ubin.png",
+            "templates": [
+                {
+                    "source": "templates\/ubin-v1-header.json",
+                    "name": "Ubin V1 - Header"
+                }
+            ],
+            "filesize": 2617,
+            "dimensions": [
+                242,
+                106
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

@@ -1,0 +1,270 @@
+{
+    "version": "0.4",
+    "title": "Ubin V1 &#8211; Error 404",
+    "type": "error-404",
+    "metadata": {
+        "template_type": "single-404",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "elementor_library_type": "error-404",
+        "elementor_pro_conditions": [
+            "include\/singular\/not_found404"
+        ],
+        "additional_template_information": [
+            "This is a \"Error 404\" template for Elementor Pro.",
+            "This template will display on: 404 Page."
+        ],
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "51406341",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": 540,
+                    "sizes": []
+                },
+                "background_background": "classic",
+                "background_image": {
+                    "url": "",
+                    "id": "",
+                    "alt": "Living room with wood flooring",
+                    "source": "library"
+                },
+                "background_position": "center center",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "background_overlay_background": "classic",
+                "background_overlay_color_b": "#FFFFFF",
+                "background_overlay_color_b_stop": {
+                    "unit": "%",
+                    "size": 22,
+                    "sizes": []
+                },
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 1,
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "em",
+                    "top": "10",
+                    "right": "0",
+                    "bottom": "10",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "5",
+                    "right": "1",
+                    "bottom": "5",
+                    "left": "1",
+                    "isLinked": false
+                },
+                "pa_condition_repeater": [
+                    {
+                        "_id": "bc59682"
+                    }
+                ],
+                "__globals__": {
+                    "background_overlay_color": "",
+                    "background_overlay_color_b": "globals\/colors?id=60760cb"
+                }
+            },
+            "elements": [
+                {
+                    "id": "19f029ae",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "background_background": "classic",
+                        "background_overlay_background": "classic",
+                        "background_overlay_image": {
+                            "url": "",
+                            "id": "",
+                            "alt": "Living room with wood flooring",
+                            "source": "library"
+                        },
+                        "background_overlay_position": "center center",
+                        "background_overlay_repeat": "no-repeat",
+                        "background_overlay_size": "cover",
+                        "background_overlay_opacity": {
+                            "unit": "px",
+                            "size": 0.8000000000000000444089209850062616169452667236328125,
+                            "sizes": []
+                        },
+                        "padding": {
+                            "unit": "em",
+                            "top": "3",
+                            "right": "3",
+                            "bottom": "3",
+                            "left": "3",
+                            "isLinked": true
+                        },
+                        "padding_tablet": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        },
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "828de98"
+                            }
+                        ],
+                        "__globals__": {
+                            "background_color": "globals\/colors?id=1104f11"
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "210bc119",
+                            "settings": {
+                                "title": "Error 404",
+                                "header_size": "div",
+                                "align": "center",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "f515474"
+                                    }
+                                ],
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=520c191",
+                                    "title_color": "globals\/colors?id=dd99d72"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "20b18b0e",
+                            "settings": {
+                                "title": "File not Found\n",
+                                "header_size": "h1",
+                                "align": "center",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "da27e66"
+                                    }
+                                ],
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=82304af"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "42dfb047",
+                            "settings": {
+                                "width": {
+                                    "unit": "px",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "width_tablet": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "align": "center",
+                                "text": "Divider",
+                                "weight": {
+                                    "unit": "px",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "76cb74c"
+                                    }
+                                ],
+                                "__globals__": {
+                                    "color": "globals\/colors?id=82304af"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4ff90e67",
+                            "settings": {
+                                "title": "Sorry, but the page you were looking for could not be found.",
+                                "header_size": "h5",
+                                "align": "center",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "db50124"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2aadcb14",
+                            "settings": {
+                                "text": "Back Home",
+                                "align": "center",
+                                "size": "md",
+                                "selected_icon": {
+                                    "value": "material-icons md-arrow_left",
+                                    "library": "material-design-icons"
+                                },
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "3972664"
+                                    }
+                                ],
+                                "__dynamic__": {
+                                    "link": "[elementor-tag id=\"2caf4d3\" name=\"site-url\" settings=\"%7B%7D\"]"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}
